@@ -1,2 +1,2 @@
-var index = require("")
+var index = require("./")
 console.log(name)
